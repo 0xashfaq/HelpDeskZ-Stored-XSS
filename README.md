@@ -16,3 +16,5 @@ In HelpDeskZ v2.0.2, an attacker can exploit an XSS vulnerability by injecting m
 * Forward this modified request.
 * Go to the Submit Ticket form and the pop-up will appear.
 
+### POC
+https://github.com/0xashfaq/HelpDeskZ-Stored-XSS/blob/860f369046d2e30e4b550c9a7bb5672124d3da28/2024-08-15%2017-21-01.mp4
